@@ -1,0 +1,218 @@
+{
+  "k": {
+    "1": {
+        "label": "Slovný druh",
+        "value": "Podstatné meno"
+    },
+    "2": {
+        "label": "Slovný druh",
+        "value": "Prídavné meno"
+    },
+    "3": {
+        "label": "Slovný druh",
+        "value": "Zámeno"
+    },
+    "4": {
+        "label": "Slovný druh",
+        "value": "Číslovka"
+    },
+    "5": {
+        "label": "Slovný druh",
+        "value": "Sloveso"
+    },
+    "6": {
+        "label": "Slovný druh",
+        "value": "Príslovka"
+    },
+    "7": {
+        "label": "Slovný druh",
+        "value": "Predložka"
+    },
+    "8": {
+        "label": "Slovný druh",
+        "value": "Spojka"
+    },
+    "9": {
+        "label": "Slovný druh",
+        "value": "Častice"
+    },
+    "0": {
+        "label": "Slovný druh",
+        "value": "Citoslovce"
+    },
+    "A": {
+        "label": "Slovný druh",
+        "value": "Skratka"
+    },
+    "Y": {
+        "label": "Slovný druh",
+        "value": "Spojka"
+    }
+  },
+  "g": {
+    "M": {
+        "label":"Rod",
+        "value": "mužský životný"
+    },
+    "I": {
+        "label": "Rod",
+        "value": "mužský neživotný"
+    },
+    "N": {
+        "label": "Rod",
+        "value": "stredný"
+    },
+    "F": {
+        "label": "Rod",
+        "value": "ženský"
+    },
+    "R": {
+        "label":"Rod",
+        "value": "Priezvisko"
+    }
+  },
+  "n": {
+    "S": {
+        "label":"Číslo",
+        "value": "jednotné"
+    },
+    "P": {
+        "label": "Číslo",
+        "value": "množné"
+    },
+    "D": {
+        "label": "Číslo",
+        "value": "duálne"
+    },
+    "R": {
+        "label": "Číslo",
+        "value": "Rodina"
+    }
+  },
+  "c": {
+    "1": {
+        "label":"Pád",
+        "value": "nominatív"
+    },
+    "2": {
+        "label": "Pád",
+        "value": "genitív"
+    },
+    "3": {
+        "label": "Pád",
+        "value": "datív"
+    },
+    "4": {
+        "label": "Pád",
+        "value": "akuzatív"
+    },
+    "5": {
+        "label":"Pád",
+        "value": "vokatív"
+    },
+    "6": {
+        "label": "Pád",
+        "value": "lokál"
+    },
+    "7": {
+        "label": "Pád",
+        "value": "inštrumentál"
+    }
+  },
+  "e":{
+    "A": {
+        "label": "Negácia",
+        "value": "afirmácia"
+    },
+    "N": {
+        "label": "Negácia",
+        "value": "negácia"
+    }
+  },
+  "d": {
+    "1":{
+        "label": "Stupeň",
+        "value": "pozitív"
+    },
+    "2":{
+        "label": "Stupeň",
+        "value": "komparatív"
+    },
+    "3":{
+        "label": "Stupeň",
+        "value": "superlatív"
+    }
+  },
+  "p": {
+    "1": {
+        "label": "Osoba",
+        "value": "prvá"
+    },
+    "2": {
+        "label": "Osoba",
+        "value": "druhá"
+    },
+    "3": {
+        "label": "Osoba",
+        "value": "tretia"
+    },
+    "X": {
+        "label":"Osoba",
+        "value": "akákoľvek"
+    }
+  },
+  "a": {
+    "P": {
+        "label": "Vid",
+        "value": "dokonavý"
+    },
+    "I": {
+        "label": "Vid",
+        "value": "nedokonavý"
+    },
+    "B": {
+        "label": "Vid",
+        "value": "obojvidové sloveso"
+    }
+  },
+  "m": {
+    "F": {
+        "label": "Slovesná forma",
+        "value": "infinitív"
+    },
+    "I": {
+        "label": "Slovesná forma",
+        "value": "indikatív"
+    },
+    "R": {
+        "label": "Slovesná forma",
+        "value": "imperatív"
+    },
+    "A": {
+        "label": "Slovesná forma",
+        "value": "/-ové príčastie"
+    },
+    "N": {
+        "label": "Slovesná forma",
+        "value": "/-ové príčastie"
+    },
+    "S": {
+        "label": "Slovesná forma",
+        "value": "prechodník"
+    },
+    "D": {
+        "label": "Slovesná forma",
+        "value": "prechodník"
+    },
+    "B": {
+        "label": "Slovesná forma",
+        "value": "futúrum byť"
+    },
+    "C": {
+        "label": "Kondicionálnosť",
+        "value": "kondicionálnosť"
+    }
+
+  }
+
+}
