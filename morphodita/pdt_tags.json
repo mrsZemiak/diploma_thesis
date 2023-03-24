@@ -1,0 +1,208 @@
+{
+    "0":{
+        "A":{
+            "label": "Slovný druh",
+            "value": "Prídavné meno"       
+         },
+         "C":{
+            "label": "Slovný druh",
+            "value": "Číslovka"       
+         },
+         "D":{
+            "label": "Slovný druh",
+            "value": "Príslovka"       
+         },
+         "I":{
+            "label": "Slovný druh",
+            "value": "Citoslovce"       
+         },
+         "J":{
+            "label": "Slovný druh",
+            "value": "Spojka"       
+         },
+         "N":{
+            "label": "Slovný druh",
+            "value": "Podstatné meno"       
+         },
+         "P":{
+            "label": "Slovný druh",
+            "value": "Zámeno"       
+         },
+         "V":{
+            "label": "Slovný druh",
+            "value": "Sloveso"       
+         },
+         "R":{
+            "label": "Slovný druh",
+            "value": "Predložka"       
+         },
+         "T":{
+            "label": "Slovný druh",
+            "value": "Častica"       
+         },
+         "X":{
+            "label": "Slovný druh",
+            "value": "Neznámy"       
+         },
+         "Z":{
+            "label": "Slovný druh",
+            "value": "Interpunkcia"       
+         }
+
+    },
+    "2":{
+        "F":{
+            "label": "Rod",
+            "value": "ženský"
+        },
+        "H":{
+            "label": "Rod",
+            "value": "ženský/stredný"
+        },
+        "I":{
+            "label": "Rod",
+            "value": "mužský neživotný"
+        },
+        "M":{
+            "label": "Rod",
+            "value": "mužský životný"
+        },
+        "N":{
+            "label": "Rod",
+            "value": "stredný"
+        },
+        "Q":{
+            "label": "Rod",
+            "value": "ženský"
+        },
+        "T":{
+            "label": "Rod",
+            "value": "mužský neživotný"
+        },
+        "X":{
+            "label": "Rod",
+            "value": "akýkoľvek"
+        },
+        "Y":{
+            "label": "Rod",
+            "value": "mužský"
+        },
+        "Z":{
+            "label": "Rod",
+            "value": "mužský/stredný"
+        }
+    },
+    "3":{
+        "D":{
+            "label": "Číslo",
+            "value": "duálne"
+        },
+        "P":{
+            "label": "Číslo",
+            "value": "množné"
+        },
+        "S":{
+            "label": "Číslo",
+            "value": "jednotné"
+        },
+        "W":{
+            "label": "Číslo",
+            "value": "jednotné ženské/ množné stredné"
+        },
+        "X":{
+            "label": "Číslo",
+            "value": "akékoľvek"
+        }
+    },
+    "4":{
+        "1": {
+            "label": "Pád",
+            "value": "nominatív"
+        },
+        "2": {
+            "label": "Pád",
+            "value": "genitív"
+        },
+        "3": {
+            "label": "Pád",
+            "value": "datív"
+        },
+        "4": {
+            "label": "Pád",
+            "value": "akuzatív"
+        },
+        "5": {
+            "label": "Pád",
+            "value": "vokatív"
+        },
+        "6": {
+            "label": "Pád",
+            "value": "lokál"
+        },
+        "7": {
+            "label": "Pád",
+            "value": "inštrumentál"
+        },
+        "X": {
+            "label": "Pád",
+            "value": "akýkoľvek"
+        },
+        "%": {
+            "label": "Pád",
+            "value": "akýkoľvek"
+        }
+    },
+    "7":{
+       "1":{
+            "label": "Osoba",
+            "value": "prvá"
+       },
+        "2":{
+            "label": "Osoba",
+            "value": "druhá"
+       },
+       "3":{
+        "label": "Osoba",
+        "value": "tretia"
+        },
+        "X":{
+            "label": "Osoba",
+            "value": "akákoľvek"
+            }    
+    },
+    "9":{
+        "1":{
+            "label": "stupeň",
+            "value": "pozitív"
+        },
+        "2":{
+            "label": "stupeň",
+            "value": "komparatív"
+        },
+        "3":{
+            "label": "stupeň",
+            "value": "superlatív"
+        }
+    },
+    "10":{
+        "A": {
+            "label": "Negácia",
+            "value": "afirmácia"
+        },
+        "N": {
+            "label": "Negácia",
+            "value": "negácia"
+        }
+    },
+    "11": {
+        "A": {
+            "label": "Druh",
+            "value": "aktívne"
+        },
+        "P": {
+            "label": "Druh",
+            "value": "pasívne"
+        }
+    }
+
+}
